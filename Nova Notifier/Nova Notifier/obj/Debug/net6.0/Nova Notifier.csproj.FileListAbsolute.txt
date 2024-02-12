@@ -1,0 +1,28 @@
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Nova Notifier.exe
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Nova Notifier.deps.json
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Nova Notifier.runtimeconfig.json
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Nova Notifier.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Nova Notifier.pdb
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Discord.Net.Commands.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Discord.Net.Core.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Discord.Net.Interactions.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Discord.Net.Rest.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Discord.Net.Webhook.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\System.Interactive.Async.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\System.Linq.Async.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\System.Reactive.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.csproj.AssemblyReference.cache
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.AssemblyInfoInputs.cache
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.AssemblyInfo.cs
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.csproj.CoreCompileInputs.cache
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.csproj.CopyComplete
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\refint\Nova Notifier.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.pdb
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\Nova Notifier.genruntimeconfig.cache
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\obj\Debug\net6.0\ref\Nova Notifier.dll
+E:\Downloads\Nova Notifier\Nova Notifier\Nova Notifier\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
